@@ -8,11 +8,11 @@ Scan(_bb0)
 Scan(_cc0)
 
 If _aa0 Gr _bb0 And _aa0 Gr _cc0 {
-  _max0 -> _aa0
+  _aa0 -> _max0
 } Else If _bb0 Gr _aa0 And _bb0 Gr _cc0 {
-  _max0 -> _bb0
+  _bb0 -> _max0
 } Else {
-  _max0 -> _cc0
+  _cc0 -> _max0
 }
 Print(_max0)
 
