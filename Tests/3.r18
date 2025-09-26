@@ -6,12 +6,12 @@ Variable Int32 _aa0, _bb0, _ff0, _gg0, _jj0;
 Scan(_aa0)
 Scan(_bb0)
 
-For _ff0 To _bb0 Do
+For _aa0 -> _ff0 To _bb0 Do
   Print(_ff0 * _ff0)
 
 _jj0 -> 0
-For _ff0 To _aa0 Do
-  For _gg0 To _bb0 Do
+For 1 -> _ff0 To _aa0 Do
+  For 1 -> _gg0 To _bb0 Do
     _jj0 + 1 -> _jj0 
 Print(_jj0)
 
