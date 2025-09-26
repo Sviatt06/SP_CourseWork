@@ -1,0 +1,37 @@
+Startprogram
+Startblock
+
+Variable Int32 _aa0, _bb0, _cc0, _mm0;
+
+Scan(_aa0)
+Scan(_bb0)
+Scan(_cc0)
+
+If _aa0 GrEq _bb0 And _aa0 GrEq _cc0 {
+  _mm0 -> _aa0
+} Else If _bb0 GrEq _aa0 And _bb0 GrEq _cc0 {
+  _mm0 -> _bb0
+} Else {
+  _mm0 -> _cc0
+}
+Print(_mm0)
+
+If _aa0 Eq _bb0 And _aa0 Eq _cc0 And _bb0 Eq _cc0 {
+  Print(1)
+} Else {
+  Print(0)
+}
+
+If Not(_aa0 GrEq 0) Or Not(_bb0 GrEq 0) Or Not(_cc0 GrEq 0) {
+  Print(-1)
+} Else {
+  Print(0)
+}
+
+If _aa0 GrEq (_bb0 + _cc0) {
+  Print(10)
+} Else {
+  Print(0)
+}
+
+Endblock

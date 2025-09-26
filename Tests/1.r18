@@ -1,0 +1,16 @@
+Startprogram
+Startblock Variable Int32 _aa0, _bb0, _xx0, _yy0;
+
+Scan (_aa0);
+Scan (_bb0);
+Print (_aa0 ++ _bb0);
+Print (_aa0 -- _bb0);
+Print (_aa0 ** _bb0);
+Print (_aa0 Div _bb0);
+Print (_aa0 Mod _bb0);
+(_aa0 -- _bb0) ** 10 ++ (_aa0 ++ _bb0) Div 10 -> _xx0;
+_xx0 ++ _xx0 Mod10 -> _yy0;
+Print (_xx0);
+Print (_yy0);
+
+Endblock
