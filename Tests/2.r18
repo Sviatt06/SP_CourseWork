@@ -28,7 +28,7 @@ If _aa0 Ls 0 Or _bb0 Ls 0 Or _cc0 Ls 0 {
   Print(0)
 }
 
-If Not (_aa0 Ls (_bb0 + _cc0)) {
+If Not (_aa0 Ls (_bb0 ++ _cc0)) {
   Print(10)
 } Else {
   Print(0)
