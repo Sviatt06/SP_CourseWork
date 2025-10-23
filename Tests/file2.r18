@@ -8,13 +8,13 @@ Scan(_bb0)
 Scan(_cc0)
 
 If _aa0 Gr _bb0 And _aa0 Gr _cc0 {
-  _aa0 -> _dd0
+  _aa0 -> _mm0
 } Else If _bb0 Gr _aa0 And _bb0 Gr _cc0 {
-  _bb0 -> _dd0
+  _bb0 -> _mm0
 } Else {
-  _cc0 -> _dd0
+  _cc0 -> _mm0
 }
-Print(_dd0)
+Print(_mm0)
 
 If _aa0 Eq _bb0 And _aa0 Eq _cc0 And _bb0 Eq _cc0 {
   Print(1)
