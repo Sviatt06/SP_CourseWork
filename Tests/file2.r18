@@ -1,7 +1,7 @@
 Startprogram
 Startblock
 
-Variable Int32 _aa0, _bb0, _cc0, _dd0;
+Variable Int32 _aa0, _bb0, _cc0, _mm0;
 
 Scan(_aa0)
 Scan(_bb0)
