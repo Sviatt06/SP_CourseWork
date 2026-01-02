@@ -1,0 +1,6 @@
+﻿  AsmForCode.c
+  source.c
+  Generating Code...
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\image_pattern_generator\source.c(167,27): warning C4552: '+': result of expression not used
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\image_pattern_generator\source.c(168,27): warning C4552: '+': result of expression not used
+  image_pattern_generator.vcxproj -> C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\x64\Debug\image_pattern_generator.exe

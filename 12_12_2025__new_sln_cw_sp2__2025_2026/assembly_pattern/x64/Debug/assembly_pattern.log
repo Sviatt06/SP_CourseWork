@@ -1,0 +1,28 @@
+﻿  Assembling patter.asm...
+patter.asm(1): error A2008: syntax error : .
+patter.asm(2): error A2008: syntax error : .
+patter.asm(5): error A2008: syntax error : ,
+patter.asm(6): error A2008: syntax error : ,
+patter.asm(8): error A2008: syntax error : ,
+patter.asm(9): error A2008: syntax error : ,
+patter.asm(12): error A2008: syntax error : ,
+patter.asm(14): error A2008: syntax error : ,
+patter.asm(35): error A2070: invalid instruction operands
+patter.asm(44): error A2070: invalid instruction operands
+patter.asm(45): error A2070: invalid instruction operands
+patter.asm(46): error A2070: invalid instruction operands
+patter.asm(58): error A2070: invalid instruction operands
+patter.asm(59): error A2070: invalid instruction operands
+patter.asm(60): error A2070: invalid instruction operands
+patter.asm(68): error A2070: invalid instruction operands
+patter.asm(72): error A2070: invalid instruction operands
+patter.asm(74): error A2070: invalid instruction operands
+patter.asm(75): error A2070: invalid instruction operands
+patter.asm(84): error A2070: invalid instruction operands
+patter.asm(178): error A2008: syntax error : start
+patter.asm(178): error A2088: END directive required at end of file
+patter.asm(61): error A2006: undefined symbol : WriteConsoleA
+patter.asm(76): error A2006: undefined symbol : ReadConsoleA
+patter.asm(149): error A2006: undefined symbol : GetStdHandle
+patter.asm(152): error A2006: undefined symbol : GetStdHandle
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\patter.obj" /W3 /errorReport:prompt  /Tapatter.asm" exited with code 1.

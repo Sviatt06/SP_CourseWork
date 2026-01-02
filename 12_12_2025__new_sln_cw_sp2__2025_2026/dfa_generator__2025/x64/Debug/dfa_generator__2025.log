@@ -1,0 +1,3 @@
+﻿  dfa_generator___part_impl.cpp
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\dfa_generator__2025\dfa_generator___part_impl.cpp(676,64): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  dfa_generator__2025.vcxproj -> C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\x64\Debug\dfa_generator__2025.exe

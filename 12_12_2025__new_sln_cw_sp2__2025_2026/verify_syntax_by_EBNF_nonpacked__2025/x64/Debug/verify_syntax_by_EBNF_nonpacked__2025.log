@@ -1,0 +1,14 @@
+﻿  main.c
+  main_spirit.cpp
+  syntax_one.cpp
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\main_spirit.cpp(12,10): error C1083: Cannot open include file: 'boost/spirit/include/qi.hpp': No such file or directory
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(35,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(350,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(351,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(352,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(410,38): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(725,47): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(752,47): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Sviatoslav\Desktop\12.12\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(949,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  wrapper.cpp
+  Generating Code...
